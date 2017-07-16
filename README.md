@@ -1,4 +1,4 @@
-# FirebaseFacebook
+# Firebase Facebook Authenication
 
 Firebase facebook authentication<br>
 *** Configured for Android*, comiled on Linux Mint ***<br>
