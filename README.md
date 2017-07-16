@@ -14,8 +14,6 @@ Follow the directions in the Facebook SDK for React-Native<br>
 https://developers.facebook.com/docs/react-native<br>
 <br>
 I got numerous errors and issues setting this up, some notes:<br>
-<br>
-https://developers.facebook.com/docs/react-native<br>
 react-native init rbFBSDK<br>
 <br>
 #Have to install an older version of the SDK or it wont link<br>
