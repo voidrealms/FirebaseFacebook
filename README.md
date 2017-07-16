@@ -1,6 +1,7 @@
 # FirebaseFacebook
 
 Firebase facebook authentication<br>
+*** Configured for Android***<br>
 <br>
 The basics...
 <br><br>
